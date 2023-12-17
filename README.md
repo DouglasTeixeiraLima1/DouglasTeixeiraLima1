@@ -4,16 +4,12 @@
 Olá! Meu nome é Douglas Teixeira Lima, tenho 17 anos e sou um entusiasta da área de tecnologia, atualmente estudando na ETEC em São Paulo, Brasil. Estou apaixonado por aprender sobre desenvolvimento de software, especialmente focado em HTML, CSS, JavaScript e WordPress.
 
 ## Interesses
-- Desenvolvimento web
 - Frontend e Backend
 - Explorar novas tecnologias
 
 ## O que estou aprendendo
 Atualmente, estou focado em:
-- HTML5
-- CSS3
-- JavaScript
-- Desenvolvimento WordPress
+- Desenvolvimento Web
 
 ## Objetivos futuros
 Meu grande objetivo é me tornar um desenvolvedor de software e contribuir para a criação de soluções inovadoras e impactantes na área de tecnologia.
