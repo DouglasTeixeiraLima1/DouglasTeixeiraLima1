@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil no GitHub! 👋
 
 ## Sobre mim
-Olá! Meu nome é Douglas Teixeira Lima, tenho 17 anos e sou um entusiasta da área de tecnologia, atualmente estudando na ETEC em São Paulo, Brasil. Estou apaixonado por aprender sobre desenvolvimento de software, especialmente focado em HTML, CSS, JavaScript e WordPress.
+Olá! Meu nome é Douglas Teixeira Lima, tenho 17 anos e sou um entusiasta da área de tecnologia. Estou apaixonado por aprender sobre desenvolvimento de software, especialmente focado em HTML, CSS, JavaScript e WordPress.
 
 ## Interesses
 - Frontend e Backend
