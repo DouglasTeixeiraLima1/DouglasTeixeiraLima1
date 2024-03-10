@@ -16,7 +16,8 @@ Meu grande objetivo é me tornar um desenvolvedor de software e contribuir para 
 
 ## Contato
 Se você quiser trocar ideias, compartilhar conhecimento ou apenas bater um papo, sinta-se à vontade para me contatar:
-- Email: [douglasteixeiralima6@gmail.com](mailto:seuemail@email.com) / [douglas.lima125@etec.sp.gov.br](mailto:seuemail@email.com)  
+- E-mails: [douglasteixeiralima6@gmail.com](mailto:seuemail@email.com)
+           [douglas.lima125@etec.sp.gov.br](mailto:seuemail@email.com)  
 - LinkedIn: [Douglas Teixeira Lima](https://www.linkedin.com/in/douglastlima/)
 
 
