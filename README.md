@@ -9,7 +9,7 @@ Olá! Meu nome é Douglas Teixeira Lima, sou um entusiasta da área de tecnologi
 
 ## O que estou aprendendo
 Atualmente, estou focado em:
-- Desenvolvimento Web: Html, CSS, JavaScript, MySQL...
+- Desenvolvimento Web: HTML, CSS, JavaScript, MySQL...
 
 ## Objetivos futuros
 Meu grande objetivo é me tornar um desenvolvedor de software e contribuir para a criação de soluções inovadoras e impactantes na área de tecnologia.
