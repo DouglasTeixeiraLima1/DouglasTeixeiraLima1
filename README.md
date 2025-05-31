@@ -29,8 +29,8 @@ Sou um estudante curioso e apaixonado por tecnologia, com foco em desenvolviment
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasgithub&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgithub&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasTeixeiraLima1&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTeixeiraLima1&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
