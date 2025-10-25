@@ -14,7 +14,7 @@ Sou um estudante curioso e apaixonado por tecnologia, com foco em desenvolviment
 
 - 🔍 Explorando o mundo das startups e tecnologias emergentes  
 - 🧩 Entusiasta de resolução de problemas com código  
-- C# Atualmente aprendendo **C#** e aperfeiçoando minhas skills de frontend  
+- Python Atualmente aprendendo **Python** e aperfeiçoando minhas skills de frontend  
 
 ---
 
