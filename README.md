@@ -88,13 +88,3 @@ Tenho interesse especial em:
 
 🔗 GitHub
 https://github.com/DouglasTeixeiraLima1
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DouglasTeixeiraLima1&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTeixeiraLima1&layout=compact&theme=tokyonight"/>
-
-</div>
