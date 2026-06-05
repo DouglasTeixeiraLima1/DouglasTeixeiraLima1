@@ -1,42 +1,88 @@
-<h1 align="center">👋 Olá, eu sou o Douglas!</h1>
+# Douglas Teixeira Lima
 
-<p align="center">
-  🌱 Estagiário de TI | 🎓 Estudante de Informática para Negócios <br/>
-  💻 Apaixonado por desenvolvimento e tecnologia <br/>
-  🚀 Em busca de soluções para problemas do mundo real
-</p>
+🎓 Estudante de Informática para Negócios na FATEC Mauá
+💻 Estagiário de TI
+📍 São Paulo, Brasil
 
----
+## Sobre mim
 
-## 🧠 Sobre mim
+Sou estudante de Tecnologia da Informação com foco em desenvolvimento de software. Atualmente estou aprofundando meus conhecimentos em programação, banco de dados, estruturas de dados e engenharia de software.
 
-Sou um estudante curioso e apaixonado por tecnologia, com foco em desenvolvimento de software. Acredito que a inovação, quando bem aplicada, pode transformar o mundo ao nosso redor.
-
-- 🔍 Explorando o mundo das startups e tecnologias emergentes  
-- 🧩 Entusiasta de resolução de problemas com código  
-- C# Atualmente aprendendo **C#** e aperfeiçoando minhas skills de frontend  
+Tenho interesse em desenvolvimento Full Stack, Inteligência Artificial e empreendedorismo tecnológico. Meu objetivo é construir soluções que resolvam problemas reais e, futuramente, criar uma startup na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Conhecimentos
 
-| Linguagens | Frontend | Lógica | Banco de Dados | Aprendizado |
-|-----------|----------|---------|----------------|-------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
- |
+### Linguagens
+
+* C#
+* Python
+* SQL
+
+### Banco de Dados
+
+* SQL Server
+
+### Ferramentas
+
+* Git
+* GitHub
+* Visual Studio
+* VS Code
+
+### Estudando Atualmente
+
+* Estruturas de Dados
+* Engenharia de Software
+* Banco de Dados
+* Desenvolvimento de Sistemas
+* Inteligência Artificial
 
 ---
 
-## 📈 GitHub Stats
+## Projeto em Destaque
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasTeixeiraLima1&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasTeixeiraLima1&layout=compact&theme=tokyonight"/>
-</div>
+### HairUp ERP
+
+Sistema ERP desenvolvido para a gestão de salões de beleza utilizando C# e SQL Server.
+
+#### Funcionalidades
+
+* Cadastro de clientes
+* Cadastro de profissionais
+* Cadastro de serviços
+* Gerenciamento de agenda
+* Atualização de registros
+* Exclusão de registros
+* Consultas e pesquisas de dados
+
+#### Características Técnicas
+
+* 17 telas funcionais
+* Banco de dados relacional em SQL Server
+* Relacionamento entre clientes, profissionais e serviços através de chaves estrangeiras
+* Controle completo dos agendamentos por data e horário
+* Operações CRUD (Create, Read, Update e Delete)
+
+O sistema foi desenvolvido para auxiliar salões de beleza de pequeno e médio porte na organização de seus processos e no gerenciamento de informações.
 
 ---
 
-## 🌍 Vamos nos conectar?
+## Objetivos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/douglastlima)
-- 💬 Aberto a colaborações, projetos open source e networking!
+* Evoluir como desenvolvedor de software
+* Aprender desenvolvimento Full Stack
+* Estudar Inteligência Artificial aplicada a negócios
+* Desenvolver projetos com impacto real
+* Criar uma startup de tecnologia
+
+---
+
+## Contato
+
+LinkedIn:
+[www.linkedin.com/in/douglastlima](http://www.linkedin.com/in/douglastlima)
+
+GitHub:
+https://github.com/DouglasTeixeiraLima1
